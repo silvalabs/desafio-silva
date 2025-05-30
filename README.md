@@ -14,7 +14,7 @@ Procuramos pessoas desenvolvedoras em início de carreira que adoram resolver de
 
 Seu desafio é criar um **Catálogo de Espécies Nativas**. A ideia central é desenvolver uma solução que permita a organização e apresentação das espécies.
 
-Você tem total liberdade para definir a arquitetura e a abordagem para resolver este problema. Isso pode incluir desde uma aplicação front-end que exibe os dados até a construção de uma API para servir essas informações ou uma combinação dos dois. Queremos saber como você pensa, resolve um problema e constrói a solução.
+Você tem **total liberdade para definir a arquitetura e a abordagem para resolver este problema**. Isso pode incluir desde uma aplicação front-end que exibe os dados até a construção de uma API para servir essas informações ou uma combinação dos dois. Queremos saber como você pensa, resolve um problema e constrói a solução.
 
 ---
 
