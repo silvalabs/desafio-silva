@@ -6,7 +6,7 @@ Aqui, a tecnologia impulsiona nossa missão de restauração ecológica em uma e
 
 ## 🤺 Perfil
 
-Procuramos pessoas desenvolvedoras em início de carreira que adoram resolver desafios e construir soluções, desejam usar suas habilidades para transformar o mundo participando de uma missão real de restauração.
+Procuramos pessoas desenvolvedoras que adoram resolver desafios e construir soluções, desejam usar suas habilidades para transformar o mundo participando de uma missão real de restauração.
 
 ---
 
